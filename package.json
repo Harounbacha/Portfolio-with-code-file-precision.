@@ -1,0 +1,17 @@
+{
+  "name": "haroun-code-like-resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bacha haroun errachid",
+  "license": "ISC",
+  "description": "this is a code-like resume for bacha haroun errachid",
+  "keywords": [
+    "resume",
+    "cv",
+    "bacha haroun errachid",
+    "code-like"
+  ]
+}
